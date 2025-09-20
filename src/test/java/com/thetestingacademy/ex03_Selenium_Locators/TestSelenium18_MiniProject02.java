@@ -12,7 +12,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class TestSelenium_MiniProject02 extends CommonToAll {
+public class TestSelenium18_MiniProject02 extends CommonToAll {
 
     @Owner("Aditya Verma")
     @Description("Verify that the error message comes with invalid email on signup page")
