@@ -13,7 +13,7 @@ import org.testng.Assert;
 import java.time.Duration;
 import java.util.function.Function;
 
-public class TestSelenium_FluentWait extends CommonToAll {
+public class TestSelenium27_FluentWait extends CommonToAll {
     public static void main(String[] args) throws InterruptedException {
 
         FirefoxOptions firefoxOptions = new FirefoxOptions();
